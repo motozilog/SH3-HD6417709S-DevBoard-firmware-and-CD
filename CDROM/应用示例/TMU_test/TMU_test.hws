@@ -1,0 +1,26 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"4.0" 
+[WORKSPACE_DETAILS]
+"TMU_test" "C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test" "C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\TMU_test.hws" "SuperH RISC engine" "Hitachi SuperH Standard" 
+[SHARED_WORKSPACE_CONTROL_STATUS]
+"" "" "" 
+"" "" "" 
+[PROJECTS]
+"TMU_test" "C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test" "C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\tmu_test.hwp" 0 
+[INFORMATION]
+"No workspace information available" 
+[SCRAP]
+[PROJECT_DEPENDENCY]
+[WORKSPACE_PROPERTIES]
+[VCS]
+"" "" "" 0 
+[VCS_PROJECT]
+[HELP_FILES]
+"c:\program files\renesas\hew30\tools\renesas\sh\8_0_0\hew\stdlib.hlp" "C/C++ Standard Library Help" 1 
+[GENERAL_DATA_PROJECT]
+[SYSMENUTOOLS]
+[USERMENUTOOLS]
+[CUSTOMPLACEHOLDERS]
+[END]

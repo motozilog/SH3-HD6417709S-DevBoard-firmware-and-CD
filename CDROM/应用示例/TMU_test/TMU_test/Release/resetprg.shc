@@ -1,0 +1,15 @@
+-cpu=sh3
+-object="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\resetprg.obj"
+-noinline
+-gbr=auto
+-save_cont_reg=0
+-chgincpath
+-errorpath
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\resetprg.c"
+-global_volatile=0
+-opt_range=all
+-infinite_loop=0
+-del_vacant_loop=0
+-struct_alloc=1
+-lang=c
+-nologo

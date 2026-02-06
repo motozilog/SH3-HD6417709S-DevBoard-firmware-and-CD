@@ -1,0 +1,12 @@
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\×ÀÃæ\SH_test\RTC_test\RTC_test\vecttbl.src"
+-cpu=sh3
+-endian=big
+-round=zero
+-denormalize=off
+-debug
+-object="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\×ÀÃæ\SH_test\RTC_test\RTC_test\Debug\vecttbl.obj"
+-literal=pool,branch,jump,return
+-nolist
+-nologo
+-chgincpath
+-errorpath

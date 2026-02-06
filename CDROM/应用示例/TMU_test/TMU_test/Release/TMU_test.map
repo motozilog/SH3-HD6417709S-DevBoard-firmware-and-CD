@@ -1,0 +1,58 @@
+Optimizing Linkage Editor (Ver. 8.0.01.000)       02-Nov-2006 08:19:17
+
+*** Options ***
+
+-subcommand=C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\TMU_test.hlk
+-noprelink
+-nodebug
+-rom=D=R
+-nomessage
+-list="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\TMU_test.map"
+-nooptimize
+-start=RSTHandler/00,INTHandler,VECTTBL,INTTBL,IntPRG/0800,PResetPRG/01000,P,C,C$BSEC,C$DSEC,D/02000,B,R/07F000000,S/07FFFFBF0
+-nologo
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\dbsct.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\intprg.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\resetprg.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\sbrk.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\tmu_test.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\vecttbl.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\vhandler.obj"
+-library="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\TMU_test.lib"
+-output="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\TMU_test.abs"
+-end
+
+*** Error information ***
+
+** L1100 (W) Cannot find "C" specified in option "start"
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+RSTHandler
+                                  00000000  0000001b        1c   4
+INTHandler
+                                  00000800  00000d53       554   4
+VECTTBL
+                                  00000d54  00000d5b         8   4
+INTTBL
+                                  00000d5c  00000ed2       177   4
+IntPRG
+                                  00000ed4  00000ed7         4   4
+PResetPRG
+                                  00001000  00001033        34   4
+P
+                                  00002000  00002167       168   4
+C$BSEC
+                                  00002168  0000216f         8   4
+C$DSEC
+                                  00002170  0000217b         c   4
+D
+                                  0000217c  0000217f         4   4
+B
+                                  7f000000  7f0003ff       400   4
+R
+                                  7f000400  7f000403         4   4
+S
+                                  7ffffbf0  7fffffef       400   4

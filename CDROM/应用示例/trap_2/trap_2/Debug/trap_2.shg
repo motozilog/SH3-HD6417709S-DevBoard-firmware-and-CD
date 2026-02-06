@@ -1,0 +1,5 @@
+-cpu=sh3
+-output="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\×ÀÃæ\SH_test\trap_2\trap_2\debug\trap_2.lib"
+-noinline
+-gbr=auto
+-head=runtime,new,math,stdio,stdlib,string

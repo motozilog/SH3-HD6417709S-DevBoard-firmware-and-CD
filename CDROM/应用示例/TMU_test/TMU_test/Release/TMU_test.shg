@@ -1,0 +1,5 @@
+-cpu=sh3
+-output="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\release\TMU_test.lib"
+-noinline
+-gbr=auto
+-head=runtime,new,math,mathf,stdio,stdlib,string

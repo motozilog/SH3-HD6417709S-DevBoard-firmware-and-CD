@@ -1,0 +1,21 @@
+-noprelink
+-rom=D=R
+-nomessage
+-list="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\SCI_test.map"
+-nooptimize
+-start=RSTHandler/0C000000,INTHandler,VECTTBL,INTTBL,IntPRG/0C000800,PResetPRG/0C001000,P,C,C$BSEC,C$DSEC,D/0C002000,B,R/0C7F0000,S/0C7FFBF0
+-nologo
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\dbsct.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\intprg.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\resetprg.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\sbrk.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\SCI_test.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\vecttbl.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\vhandler.obj"
+-library="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\SCI_test.lib"
+-output="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\SCI_test.abs"
+-end
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\SCI_test.abs"
+-form=stype
+-output="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\Debug\SCI_test.mot"
+-exit

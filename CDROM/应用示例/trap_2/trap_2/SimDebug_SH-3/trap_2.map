@@ -1,0 +1,57 @@
+Optimizing Linkage Editor (Ver. 8.0.01.000)       25-Oct-2006 17:41:05
+
+*** Options ***
+
+-subcommand=C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\simdebug_sh-3\trap_2.hlk
+-noprelink
+-rom=D=R
+-nomessage
+-list="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\simdebug_sh-3\trap_2.map"
+-nooptimize
+-start=RSTHandler/00,INTHandler,VECTTBL,INTTBL,IntPRG/0800,PResetPRG/01000,P,C,C$BSEC,C$DSEC,D/02000,B,R/07F000000,S/07FFFFBF0
+-nologo
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\simdebug_sh-3\dbsct.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\simdebug_sh-3\intprg.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\simdebug_sh-3\resetprg.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\simdebug_sh-3\sbrk.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\simdebug_sh-3\trap_2.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\simdebug_sh-3\vecttbl.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\simdebug_sh-3\vhandler.obj"
+-library="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\simdebug_sh-3\trap_2.lib"
+-output="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\simdebug_sh-3\trap_2.abs"
+-end
+
+*** Error information ***
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+RSTHandler
+                                  00000000  0000001b        1c   4
+INTHandler
+                                  00000800  00000d57       558   4
+VECTTBL
+                                  00000d58  00000d5f         8   4
+INTTBL
+                                  00000d60  00000ed6       177   4
+IntPRG
+                                  00000ed8  00000edb         4   4
+PResetPRG
+                                  00001000  00001037        38   4
+P
+                                  00002000  00002f7b       f7c   4
+C
+                                  00002f7c  00003167       1ec   4
+C$BSEC
+                                  00003168  0000316f         8   4
+C$DSEC
+                                  00003170  0000317b         c   4
+D
+                                  0000317c  0000317f         4   4
+B
+                                  7f000000  7f000413       414   4
+R
+                                  7f000414  7f000417         4   4
+S
+                                  7ffffbf0  7fffffef       400   4

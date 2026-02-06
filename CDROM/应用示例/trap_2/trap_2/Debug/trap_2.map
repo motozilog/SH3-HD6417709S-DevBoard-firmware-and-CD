@@ -1,0 +1,57 @@
+Optimizing Linkage Editor (Ver. 8.0.01.000)       26-Oct-2006 12:07:16
+
+*** Options ***
+
+-subcommand=C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\debug\trap_2.hlk
+-noprelink
+-rom=D=R
+-nomessage
+-list="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\debug\trap_2.map"
+-nooptimize
+-start=RSTHandler/0C000000,INTHandler,VECTTBL,INTTBL,IntPRG/0C000800,PResetPRG/0C001000,P,C,C$BSEC,C$DSEC,D/0C002000,B,R/0C7F0000,S/0C7FFBF0
+-nologo
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\debug\dbsct.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\debug\intprg.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\debug\resetprg.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\debug\sbrk.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\debug\trap_2.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\debug\vecttbl.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\debug\vhandler.obj"
+-library="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\debug\trap_2.lib"
+-output="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\trap_2\trap_2\debug\trap_2.abs"
+-end
+
+*** Error information ***
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+RSTHandler
+                                  0c000000  0c00001b        1c   4
+INTHandler
+                                  0c000800  0c000d57       558   4
+VECTTBL
+                                  0c000d58  0c000d5f         8   4
+INTTBL
+                                  0c000d60  0c000ed6       177   4
+IntPRG
+                                  0c000ed8  0c000ed9         2   4
+PResetPRG
+                                  0c001000  0c001037        38   4
+P
+                                  0c002000  0c002faf       fb0   4
+C
+                                  0c002fb0  0c00319b       1ec   4
+C$BSEC
+                                  0c00319c  0c0031a3         8   4
+C$DSEC
+                                  0c0031a4  0c0031af         c   4
+D
+                                  0c0031b0  0c0031b3         4   4
+B
+                                  0c7f0000  0c7f0413       414   4
+R
+                                  0c7f0414  0c7f0417         4   4
+S
+                                  0c7ffbf0  0c7fffef       400   4

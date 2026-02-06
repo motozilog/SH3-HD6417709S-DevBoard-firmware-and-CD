@@ -1,0 +1,5 @@
+-cpu=sh3
+-output="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\×ÀÃæ\SH_test\RTC_test\RTC_test\Debug\RTC_test.lib"
+-noinline
+-gbr=auto
+-head=runtime,new,math,mathf,stdio,stdlib,string

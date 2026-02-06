@@ -1,0 +1,16 @@
+-cpu=sh3
+-object="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\×ÀÃæ\SH_test\RTC_test\RTC_test\Debug\dbsct.obj"
+-debug
+-noinline
+-gbr=auto
+-save_cont_reg=0
+-chgincpath
+-errorpath
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\×ÀÃæ\SH_test\RTC_test\RTC_test\dbsct.c"
+-global_volatile=0
+-opt_range=all
+-infinite_loop=0
+-del_vacant_loop=0
+-struct_alloc=1
+-lang=c
+-nologo

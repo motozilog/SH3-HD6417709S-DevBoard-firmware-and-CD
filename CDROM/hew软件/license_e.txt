@@ -1,0 +1,135 @@
+THE LICENCE
+
+RENESAS TECHNOLOGY EUROPE LIMITED (the "Licensor" which expression shall include its subsidiaries, agents, successors and assigns) is authorised to license the Software (the "Software") contained in the package and upon opening the sealed package the Licensee accepts a non-exclusive, non-transferable Licence to "Use" (as hereinafter defined) one copy of the Software on a single computer system ("the System") as a Single User (which means only one Licensee user may Use the Software and the Licensee may make only one copy for the purposes of back-up) for the purposes only of processing data relating to the internal operations of the Licensee subject to the terms and conditions contained herein.
+
+1.	Acceptance of this Licence
+
+The terms and conditions of this Licence are deemed to be accepted by the parties as follows:
+
+a)	by the Licensor upon delivery by the Licensor of this package to the Licensee; and
+
+b)	by the Licensee by clicking OK to this window.
+
+2.	Use of the Software
+
+For the purposes of this Licence "Use" shall mean storing, loading, transferring, copying or transmitting the Software into or within a single computer system.
+
+3.	Licence Fee
+
+a)	The Licence Fee is payable within the number of days specified in the Licensor's invoice unless otherwise agreed in writing by a Director of the Licensor.
+
+b)	All charges are exclusive of and net of any taxes, duties or such other additional sums including Value Added Tax, excise tax, (tax on sales, property or use), import or other duties, and whether levied in respect of this Licence, the Software, its Use or otherwise.
+
+4.	Support
+
+a)	The period of Product Support, which shall include but not be limited to Software Support, ("Support Period") is set out in the Customer Information Sheet accompanying this Licence ("Customer Information Sheet").
+
+b)	Licensor shall, during the Support Period, referred to in Clause 4(a) above, provide such Updates and Support Services to the Licensee as set out in the Customer Information Sheet.
+
+c)	The Product Support referred to in Clause 4(b) above shall only be provided to the Licensee when it has signed and completed the Registration Form accompanying this Licence and returned same to the Licensor.
+
+d) Extended Product Support as referred to in the Customer Information Sheet is not covered by this Licence and the Licensor shall charge for support given to the Licensee (other than the Product Support referred to in Clauses 4(a) and 4(b) above) and for other Software services requested by the Licensee which are not specifically covered by this Licence.
+
+5.	Warranty
+
+a)	The Licensee acknowledges that software in general is not error-free and agrees that the existence of such errors shall not constitute a breach of this Licence.
+
+b)	The period of warranty ("Warranty Period") is set out in the Customer Information Sheet.
+
+c)	In the event that the Licensee discovers a material error which substantially affects the Licensee's Use of the same and notifies the Licensor of the error during the Warranty Period the Licensor shall at its sole option either refund the Licence Fee or use all reasonable endeavours to correct by patch or new release (at its option) that part of the Software which does not so comply PROVIDED THAT such non-compliance has not been caused by any modification, variation or addition to the Software not performed by the Licensor or caused by its incorrect use, abuse or corruption of the Software or by use of the Software with other software or on equipment with which it is incompatible.
+
+6.	Licensees Undertakings
+
+The Licensee undertakes:
+
+a)	not to copy (other than for normal System operation and as specified in this Licence), reproduce, translate, adapt, vary, modify, disassemble or decompile the Software nor to communicate the same to any third party without the Licensor's prior written consent;
+
+b)	to maintain accurate and up-to-date records of the number and location of all copies of the Software;
+
+c)	to supervise and control Use of the Software in accordance with the terms of this Licence;
+
+d)	to ensure that its employees who will Use the Software are notified of this Licence and the terms hereof prior to such employee using the same;
+
+e)	to replace the current version of the Software with the upgraded version forthwith upon receipt;
+
+f)	to reproduce and include the copyright notice of the Licensor or such other party as may be specified in or on the Software (the "Owner") on all copies, whether in whole or in part, in any form, including partial copies of modifications of the Software made herein;
+
+g)	not to provide or otherwise make available the Software in whole or in part (including where applicable, but not limited to program listings, object code and source program listings, object code and source code), in any form to any person other than the Licensee's employees without prior written consent from the Licensor; and
+
+h)	within 14 days after the date of termination or discontinuance of the Licence for whatever reason, to return or destroy (as the Licensor shall instruct) the Software and all copies, in whole and in part, in any form including partial copies of modifications of the Software received from the Licensor or made in connection with this Licence, and all documentation relating thereto and to furnish the Licensor with a certificate, certifying that the same has been done. 
+
+7.	Export Control
+
+In addition to the Licensee's undertakings set out in Clause 6 above, the Licensee further undertakes to comply with the EU and National Export Control Laws which are relevant to the products, technologies and services ("Goods") supplied by the Licensor.
+
+a)	The Licensor has coded all of its Goods in accordance with the "List of Dual-Use Goods" (Council Regulation (EC) No. 3381/94) and relevant National Regulations ("Regulations").  Any goods supplied to the Licensee by the Licensor which are classified as dual use will also be clearly identified as such on the Licensor's standard trading documents.  If the Licensee intends to (re)export the dual use goods or make them available to a third party in another country the Licensee must comply with all relevant Export Control Laws and Regulations.
+
+b)	The Licensee will strictly observe all United Nations sanctions. The Licensee will not, therefore, export, re-export or make available any of the Licensor's Goods, whether wholly or partly, or either directly or knowingly on an indirect basis, to any destinations, or any person or organisation subject to such sanctions, or for any purpose prohibited by such sanctions.
+
+c)	The Licensee must comply with all applicable National and International (e.g. U.S. re-export control, German military end-use control, etc.) Export Control Regulations. Therefore the Licensee will not use the Licensor's Goods, in their entirety or in part, in connection with the development, production, handling, operation,  maintenance, storage, detection, identification or dissemination of chemical, biological or nuclear weapons or  the development, production,  maintenance or storage of missiles capable of delivering such weapons as covered by the corresponding non-proliferation arrangements (EC Regulation Article 4.1).
+
+8.	The Licensor's Liability
+
+a)	The Licensor shall not  be liable to the Licensee for any loss or damage whatsoever or howsoever caused arising directly or indirectly in connection with this Licence, the Software, its Use (whether or not as defined in this Licence) or otherwise, except to the extent that such liability may not be lawfully excluded.
+
+b)	Notwithstanding the generality of Clause 8(a) above, the Licensor expressly excludes liability for indirect, special, incidental or consequential loss or damage which may arise in respect of the Software, its Use, (whether or not as defined in this Licence), the System or in respect of other equipment or property, or for loss of profit, business, revenue, goodwill or anticipated savings.
+
+c)	In the event that any exclusion or other provision contained in the Licence shall be held to be invalid for any reason and the Licensor becomes liable for loss or damage that could otherwise have been lawfully limited, such liability shall be limited to the Licence Fee.
+
+d)	The Licensor does not exclude liability for death or personal injury to the extent only that the same arises as a result of the negligence of the Licensor, its employees, agents or authorised representatives.
+
+9.	Intellectual Property Rights
+
+a)	The Licensee acknowledges that all of the trademarks, trade names, copyrights, patents and other intellectual property rights used or embodied in or in connection with the Software shall be and remain the sole property of the Licensor and/or the Owner.  The Licensee shall not during or at any time after the expiry or termination of this Licence in any way dispute the ownership by the Licensor and/or the Owner of any such rights.
+
+b)	The Licensee shall indemnify the Licensor fully against all liabilities, costs and expenses which the Licensor may incur as a result of work done in accordance with the Licensee's specifications involving infringement of any trademark copyright patent or other proprietary right. 
+
+10.	Confidential Information
+
+a)	All information, data, drawings, specifications, documentation, software listings, source or object code which the Licensor may have imparted and may from time to time impart to the Licensee, relating to the Software, is proprietary and confidential.  The Licensee hereby agrees that it shall use the same solely in accordance with the provisions of this Licence and that it shall not during or after expiry or termination of this Licence, disclose the same, whether directly or indirectly, to any third party without the Licensor's prior written consent.
+
+b)	The Licensee further agrees that it shall not itself or through any subsidiary, agent or third party modify, vary, enhance, copy, sell, lease, license, sub-license or otherwise deal with the Software or any part or parts or variations, modifications, copies, releases, versions or enhancements thereof or have any Software or other program written or developed for itself based on any confidential information supplied to it by the Licensor.
+
+11.	Force Majeure
+
+The Licensor shall be under no liability to the Licensee in respect of anything which, apart from this provision, may constitute breach of this Licence arising by reason of force majeure, namely, circumstances beyond the control of the Licensor which shall include (but shall not be limited to) acts of God, perils of the sea or air, fire, flood, drought, explosion, sabotage, accident, embargo, riot, civil commotion, including acts of local government and parliamentary authority; inability to supply the Software, support materials, breakdown of equipment and labour disputes of whatever nature and for whatever cause arising including (but without prejudice to the generality of the foregoing) work to rule, overtime bars, strikes and lockouts and whether between either of the parties hereto and any or all of its employees and/or any other employer and any or all of its employees and/or between any two or more groups of employees (and whether of either of the parties hereto or any other employer).
+
+12.	Termination
+
+a)	The Licensor may upon reasonable notice in writing to the Licensee terminate this Licence forthwith if the Licensee is in breach of any term, condition or provision of either this Licence or required by Law.
+
+b)	On termination, the Licensee shall pay to the Licensor all costs and expenses, including legal and other fees incurred and all arrears of fees, charges or other payments arising in respect of the Software, this Licence or otherwise and shall comply with its undertaking specified in Clause 6(h) above.
+
+c)	Termination, howsoever or whenever occasioned shall be subject to any rights and remedies the Licensor may have under this Licence or in Law.
+
+13.	Assignment
+
+The Licensee shall not assign or otherwise transfer all or any part of the Software or this Licence without the prior written consent of the Licensor
+
+14.	Waiver
+
+Failure or neglect by either party to enforce at any time any of the provisions hereof shall not be deemed to be a waiver of that party's rights hereunder nor in any way affect the validity of the whole or any part of this Licence nor prejudice that party's rights to take subsequent action.
+
+15.	Headings
+
+Headings are inserted for convenience of reference only and are not intended to be part of or to affect the meaning or interpretation of any of the terms and conditions of this Licence.
+
+16.	Severability
+
+In the event that any of these terms and conditions or provisions shall be determined invalid, unlawful or unenforceable to any extent, such term, condition or provision shall be severed from the remaining terms, conditions and provisions which shall continue to be valid to the fullest extent permitted by Law. 
+
+17.	Law
+
+The parties hereby agree that the Licence concluded between them and constituted on these terms and conditions shall be construed in accordance with English Law. 
+
+
+
+
+
+
+
+
+Form CUS 4/Dis (11/97)	
+
+
+

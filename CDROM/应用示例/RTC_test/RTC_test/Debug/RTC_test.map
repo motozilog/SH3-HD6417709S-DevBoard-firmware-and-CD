@@ -1,0 +1,57 @@
+Optimizing Linkage Editor (Ver. 8.0.01.000)       02-Nov-2006 09:09:33
+
+*** Options ***
+
+-subcommand=C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\RTC_test\RTC_test\Debug\RTC_test.hlk
+-noprelink
+-rom=D=R
+-nomessage
+-list="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\RTC_test\RTC_test\Debug\RTC_test.map"
+-nooptimize
+-start=RSTHandler/0C000000,INTHandler,VECTTBL,INTTBL,IntPRG/0C000800,PResetPRG/0C001000,P,C,C$BSEC,C$DSEC,D/0C002000,B,R/0C7F0000,S/0C7FFBF0
+-nologo
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\RTC_test\RTC_test\Debug\dbsct.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\RTC_test\RTC_test\Debug\intprg.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\RTC_test\RTC_test\Debug\resetprg.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\RTC_test\RTC_test\Debug\RTC_test.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\RTC_test\RTC_test\Debug\sbrk.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\RTC_test\RTC_test\Debug\vecttbl.obj"
+-input="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\RTC_test\RTC_test\Debug\vhandler.obj"
+-library="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\RTC_test\RTC_test\Debug\RTC_test.lib"
+-output="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\RTC_test\RTC_test\Debug\RTC_test.abs"
+-end
+
+*** Error information ***
+
+** L1100 (W) Cannot find "C" specified in option "start"
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+RSTHandler
+                                  0c000000  0c00001b        1c   4
+INTHandler
+                                  0c000800  0c000d53       554   4
+VECTTBL
+                                  0c000d54  0c000d5b         8   4
+INTTBL
+                                  0c000d5c  0c000ed2       177   4
+IntPRG
+                                  0c000ed4  0c000ed7         4   4
+PResetPRG
+                                  0c001000  0c001033        34   4
+P
+                                  0c002000  0c0021c7       1c8   4
+C$BSEC
+                                  0c0021c8  0c0021cf         8   4
+C$DSEC
+                                  0c0021d0  0c0021db         c   4
+D
+                                  0c0021dc  0c0021df         4   4
+B
+                                  0c7f0000  0c7f03ff       400   4
+R
+                                  0c7f0400  0c7f0403         4   4
+S
+                                  0c7ffbf0  0c7fffef       400   4

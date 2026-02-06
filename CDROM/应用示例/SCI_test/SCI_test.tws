@@ -1,0 +1,26 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.0" 
+[CURRENT_PROJECT]
+"SCI_test" 
+[GENERAL_DATA]
+"EDITOR_WINDOWS_MAXIMISED" "1" 
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\SCI_test\sci_test\sci_test.c" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\7709s.h" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\resetprg.c" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\vhandler.src" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\intprg.src" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\vecttbl.src" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\SCI_test.c" 
+[WORKSPACE_FILE_STATES]
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\resetprg.c" "0,0,1029,608,0" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\7709s.h" "110,145,889,400,0" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\vecttbl.src" "22,29,889,400,0" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\SCI_test\sci_test\sci_test.c" "-4,-30,1029,608,1" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\vhandler.src" "88,116,889,400,0" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\SCI_test.c" "0,0,1029,608,0" 
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\SCI_test\SCI_test\intprg.src" "44,58,889,400,0" 
+[END]

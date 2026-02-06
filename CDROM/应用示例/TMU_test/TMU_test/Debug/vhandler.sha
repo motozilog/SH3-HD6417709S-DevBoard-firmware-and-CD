@@ -1,0 +1,12 @@
+"C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\vhandler.src"
+-cpu=sh3
+-endian=big
+-round=zero
+-denormalize=off
+-debug
+-object="C:\Documents and Settings\aguan.TSINGHUA-5E69FB\桌面\SH_test\已通过调试的\TMU_test\tmu_test\debug\vhandler.obj"
+-literal=pool,branch,jump,return
+-nolist
+-nologo
+-chgincpath
+-errorpath
