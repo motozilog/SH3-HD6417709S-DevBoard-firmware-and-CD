@@ -6,3 +6,5 @@ This development board was designed by Yu Xiaojian. It utilizes the **same memor
 However, production of this board was extremely limited – only around 200 units were ever made. Therefore, I have dumped the binary from its flash memory, which may be useful for developing a debug tool for the CAVE CV1K system.
 
 ![SH3-DevBoard.jpg](SH3-DevBoard.jpg)
+
+![StartUp.png](StartUp.png)
